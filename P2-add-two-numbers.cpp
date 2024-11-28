@@ -9,4 +9,5 @@ int main(){
     cin>>number2;
     result = number1 + number2;
     cout<<"Sum of the two numbers is "<<result;
+    
 }
